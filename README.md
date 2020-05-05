@@ -4,7 +4,7 @@ Stock prediction using sentiment analysis
 
 ## Steps
 1. **Clone this repo**
- `git clone https://github.com/Prudvi01/stockprediction.git`
+ `git clone `
 2. **Go to the directory**
 3. **Activate virtual environment (you can skip this but it's recommended)**
 	`virtualenv env;source env/bin/activate`
